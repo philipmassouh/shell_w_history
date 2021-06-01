@@ -1,0 +1,9 @@
+ls
+pwd
+ls -a
+ps -a
+fstat
+fg
+man man
+echo "hello worl"
+cat massouh.3.history
